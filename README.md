@@ -17,3 +17,7 @@ Submit a Flask application that includes:
 ●	Create your index route and template that shows all items in the .csv file on the web page, including links to each individual item's details page.
 ●	Complete the show route that displays the details of each item in the .csv
 ●	Include a create route that allows users to add new data to the file. This should accept a POST request with the new data.
+
+![image](https://github.com/umatuteja/Flask_application/assets/146737480/db83ea01-1212-4665-ae80-295e57d7cebc)
+![image](https://github.com/umatuteja/Flask_application/assets/146737480/d4a86e72-13d6-47eb-8fcb-2619a8c7f0a5)
+
